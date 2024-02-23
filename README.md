@@ -4,8 +4,8 @@ This repository is dedicated to C++ programming projects and examples, aimed at 
 
 ## Projects
 
-- [Dynamic Array Template](./dynamic_array/README.md) - A C++ template implementation for a dynamic array, illustrating the use of templates for type-independent data structures.
-- [Linked List Template](./linked_list/README.md) - A C++ template implementation for a singly linked list, demonstrating the principles of dynamic memory management and object-oriented design.
+- [Dynamic Array Template](./dynamic_array_template/README.md) - A C++ template implementation for a dynamic array, illustrating the use of templates for type-independent data structures.
+- [Linked List Template](./linked_list_template/README.md) - A C++ template implementation for a singly linked list, demonstrating the principles of dynamic memory management and object-oriented design.
 - [Associative Array Template](./associative_array/README.md) - A C++ template implementation for an associative array, highlighting the use of operator overloading and custom data structures.
 - [Filesystem](./filesystem/README.md) - Demonstrates the use of the C++17 filesystem library to perform file operations, enhancing the ability to interact with the system's file structure programmatically.
 - [Template Practice](./template_practice/README.md) - Contains small exercises and examples focusing on C++ template programming, showcasing the power and flexibility of templates in generic programming.
